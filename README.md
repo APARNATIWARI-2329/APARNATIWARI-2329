@@ -80,5 +80,7 @@ Here are a few fun facts about me:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=APARNATIWARI-2329&show_icons=true&theme=gotham" alt="Aparna Tiwari" />
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=APARNATIWARI-2329&show_icons=true&theme=gotham" width="400" /> 
+
 
 

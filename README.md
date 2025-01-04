@@ -65,12 +65,6 @@ My Interest - Offcourse !!
 
 ---
 
-## 🎉 Thank You for Visiting My Profile!
-
-I'm always looking for new opportunities to grow and contribute. Let's make the future even more exciting together! 🌟
-
----
-
 ## 💖 A Bit of Fun! 🎉
 
 Here are a few fun facts about me:
@@ -82,13 +76,11 @@ Here are a few fun facts about me:
 
 ---
 
-<h3 align="left">For a Coffee Lover like Me</h3>
+## 🎉 Thank You for Visiting My Profile!
 
-<h3 align="left">Support:</h3>
-<p>
-   <a href="https://www.buymeacoffee.com/aparna tiwari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aparna tiwari" /></a>
-   
-   <a href="https://ko-fi.com/Aparna~tiwari"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Aparna~tiwari" /></a></p><br><br>
+I'm always looking for new opportunities to grow and contribute. Let's make the future even more exciting together! 🌟
 
 ---
+
+
 

@@ -45,25 +45,22 @@ I am **Microsoft AZ-900 AND AI-900 Certified**.
 
 - 🎓 **My Current Status**:  **BTech CSE** Student at **Parul University**
 - 🎓 **Program**: **IEP Microsoft**
-- 💻 **Passionate Web Developer**: Focused on creating interactive and responsive websites.
+- 💻 **Passionate Data Scientist**: Building interactive, responsive, and impactful data solutions.
 - ⚡ Fun fact : **I am beautiful**
-  
 <br>
-
 - 🌱 **Technologies I Love**:  
  - **HTML5** 🌐  
  - **CSS3** 🎨  
  - **JavaScript** ⚡
-   
+ - **Java** 🍵
+ - **Python** 🐍
 <br>
- 
  - 🔧 **I’m Currently Learning**:  
   - Python: 🐍
   - HTML: 🌐
   - CSS: 🎨
-  - C: 💻
+  - Java: 💻
   - JavaScript: ⚡
- 
 ---
 
 ## 📊 **This Week I Spent My Time On:**
@@ -89,9 +86,9 @@ My Interest - Offcourse !!
 
 Here are a few fun facts about me:
 
-- I love 💻 coding and enjoy experimenting with new ideas to refine and enhance the websites I design. 🎨
+- I love 💻 coding and enjoy experimenting with new ideas to refine and enhance the data solutions I design. 🎨
 - I enjoy 📚 reading about my interest.  
-- My favorite language is CSS & JavaScript because it brings websites full of colors , designs and life! 🎨  
+- My favorite language is CSS and Java because it brings websites full of colors , designs and life! 🎨  
 - I like to stay active by 💃 dancing in my free time.  
 
 ---

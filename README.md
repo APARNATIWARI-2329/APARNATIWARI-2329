@@ -48,14 +48,16 @@ I am **Microsoft AZ-900 AND AI-900 Certified**.
 - 💻 **Passionate Data Scientist**: Building interactive, responsive, and impactful data solutions.
 - ⚡ Fun fact : **I am beautiful**
 <br>
-- 🌱 **Technologies I Love**:  
- - **HTML5** 🌐  
- - **CSS3** 🎨  
- - **JavaScript** ⚡
- - **Java** 🍵
- - **Python** 🐍
+
+## 🌱 Technologies I Love :  
+ - HTML5 🌐  
+ - CSS3 🎨  
+ - JavaScript ⚡
+ - Java🍵
+ - Python 🐍
 <br>
- - 🔧 **I’m Currently Learning**:  
+
+## 🔧 I’m Currently Learning :  
   - Python: 🐍
   - HTML: 🌐
   - CSS: 🎨

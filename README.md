@@ -1,105 +1,99 @@
-## Hi there , I am Aparna Tiwari👋
-A Passionate Web Developer from **India** .
+# Hi there, I'm Aparna Tiwari 👋
 
-Welcome to my profile! 😊 I am a **passionate coder** and **BTech CSE** student at **Parul University**. 
-Alongside my academic journey, I am pursuing the **IEP Microsoft** program to expand my skills in technology and software development.
-I am **Microsoft AZ-900 AND AI-900 Certified**.
+### 🚀 Aspiring Data Analyst & Software Developer from India
 
----
+Welcome to my GitHub profile! 😊
+I’m a **B.Tech Computer Science Engineering** student at **Parul University** with a strong passion for **Data Analytics, Software Development, MERN Stack Development, and Problem Solving**.
 
-<h3>  🖥️ Things I code with 🖥️ </h3>
+Alongside academics, I’m pursuing the **IEP Microsoft Program** and continuously building my technical skills through projects, certifications, and hands-on learning.
 
-<p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-  </a>
-</p>
+🏅 **Microsoft Certified:** AZ-900 | AI-900 | DP-900 | SC-900 | AZ-104
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 **My Current Status**:  **BTech CSE** Student at **Parul University**
-- 🎓 **Program**: **IEP Microsoft**
-- 💻 **Passionate Data Scientist**: Building interactive, responsive, and impactful data solutions.
-- ⚡ Fun fact : **I am beautiful**
-<br>
-
-## 🌱 Technologies I Love :  
- - HTML5 🌐  
- - CSS3 🎨  
- - JavaScript ⚡
- - Java🍵
- - Python 🐍
-<br>
-
-## 🔧 I’m Currently Learning :  
-  - Python: 🐍
-  - HTML: 🌐
-  - CSS: 🎨
-  - Java: 💻
-  - JavaScript: ⚡
----
-
-## 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```txt
-My Interest - Offcourse !!
-```
-<!--END_SECTION:waka-->
+* 🎓 B.Tech CSE Student at **Parul University**
+* ☁️ Exploring **Cloud Computing & Microsoft Azure**
+* 📊 Interested in **Data Analysis & Data Visualization**
+* 💻 Passionate about **MERN Stack Web Development**
+* 🧠 Practicing **DSA & Problem Solving** using Java
+* 🌱 Always learning new technologies and building projects
 
 ---
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/APARNATIWARI-2329" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-   
-   <a href="https://www.linkedin.com/in/aparnna-ttiwari-7a4254298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🖥️ Tech Stack
 
-  [![Gmail Badge](https://img.shields.io/badge/-tiwariaparna1457@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiwariaparna1457@gmail.com)](mailto:tiwariaparna1457@gmail.com)
-</p>
+### 💻 Languages
+
+Java • Python • SQL 
+
+### 🌐 Web Development
+
+HTML5 • CSS3 
+
+### 🗄️ Database
+
+• MySQL
+
+### 📊 Data Analytics
+
+Pandas • NumPy • Matplotlib
+
+### ☁️ Cloud
+
+Microsoft Azure
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 Kalakriti – MERN Full Stack Ecommerce Website
+
+* Developed a full-stack ecommerce platform using MongoDB, Express.js, React.js, and Node.js
+* Implemented user authentication, product management, shopping cart, and responsive UI
+* Integrated REST APIs and database operations for dynamic functionality
 
 ---
 
-## 💖 A Bit of Fun! 🎉
+## 🏆 Achievements
 
-Here are a few fun facts about me:
-
-- I love 💻 coding and enjoy experimenting with new ideas to refine and enhance the data solutions I design. 🎨
-- I enjoy 📚 reading about my interest.  
-- My favorite language is CSS and Java because it brings websites full of colors , designs and life! 🎨  
-- I like to stay active by 💃 dancing in my free time.  
+* Solved 250+ DSA problems on LeetCode
+* Microsoft Certified in Azure Fundamentals
+* Built full-stack MERN applications and data analysis projects
 
 ---
 
-## 🎉 Thank You for Visiting My Profile!
+## 🌱 Currently Learning
 
-I'm always looking for new opportunities to grow and contribute. Let's make the future even more exciting together! 🌟
+* Advanced MERN Stack Development
+* Data Analytics & Visualization
+* Backend Development
+* Cloud & Azure Services
 
 ---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn : https://www.linkedin.com/in/aparna-tiwari-7a4254298/
+* 💻 Leetcode : https://leetcode.com/u/APARNA_LEARNER/
+* 📧 Email: [tiwariaparna1457@gmail.com](mailto:tiwariaparna1457@gmail.com)
+
+---
+
+## ✨ Fun Facts
+
+* 💃 I enjoy learning new skills in my free time
+* 🎨 Love designing responsive and interactive interfaces
+* 📚 Always curious to learn new technologies and improve my skills
+
+---
+
+## 🌟 Thanks for Visiting!
+
+I’m always excited to learn, collaborate, and work on impactful projects.
+Let’s connect and build something amazing together 🚀
+
 
 
 
